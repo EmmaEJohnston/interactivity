@@ -1,0 +1,11 @@
+---
+title: "making_websites"
+author: "Emma"
+date: "2026-10-22"
+output: html_document
+---
+
+# Websites
+
+Collection of pages that are interrelated, written in HTML, hosted on a server, and retrievable easy to remember name 
+Render directly to HTML from Rmd 
